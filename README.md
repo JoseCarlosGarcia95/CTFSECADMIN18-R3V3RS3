@@ -1,2 +1,2 @@
 # CTFSECADMIN18-R3V3RS3
-Contrarreloj flag | Reverse engineering
+HINT: Hoppe v4 and write the code in C
